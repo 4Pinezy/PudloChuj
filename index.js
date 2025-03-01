@@ -51,10 +51,10 @@ const VIDEOS = [
   'media/videos/edit1.mov',
   'media/videos/edit2.mov',
   'media/videos/jaja.mov',
-  'media/videos/lodzik.mov'
-  'media/videos/ninja.mov'
-  'media/videos/oskar_calling.mov'
-  'media/videos/twerk.mov'
+  'media/videos/lodzik.mov',
+  'media/videos/ninja.mov',
+  'media/videos/oskar_calling.mov',
+  'media/videos/twerk.mov',
 ]
 
 const FILE_DOWNLOADS = [
